@@ -7,7 +7,7 @@ This a repo for Admin-Connect; a one stop shop for Microsoft's different shell m
 ```
 cd "<realtive path to Admin-Connect>"
 ```
--run the file
+- run the file
 ```
 .\adminconnect.ps1
 ```
